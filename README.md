@@ -1,4 +1,4 @@
-<h1> 🔗 URL Shortener APP </h1>
+<h1> 🔗 URL Shortner APP </h1>
 
 ![image](https://github.com/pabl1ku/URL-Shortener-APP/assets/115459058/9b54f007-1dac-4192-b636-6762d785ea4a)
 
